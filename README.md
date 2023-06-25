@@ -4,7 +4,7 @@
 A GUI-based city mapper application built with C++ and using the OpenStreetMap API. GUI was built with the GTK library. Allows all core map functionality (such as moving, zooming, panning, and location selection) for a user-selected city, plus search, directions, dark mode, public transit, and other features. 
 
 ## Demonstrations
-### VIDEO: Generapl Map Features + Directions
+### VIDEO: General Map Features + Directions
 https://github.com/hallovera/mapper-public/assets/75815453/6590654e-8993-466a-8289-3f86ce5168db
 
 
